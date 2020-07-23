@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\CDU\\HIT339\\01\\Mcmovie\\MvcMovie\\MvcMovie.csproj",
+      "projectUniqueName": "D:\\CDU\\HIT339\\git\\week1HelloWorldMVC\\MvcMovie.csproj",
       "projectName": "MvcMovie",
-      "projectPath": "D:\\CDU\\HIT339\\01\\Mcmovie\\MvcMovie\\MvcMovie.csproj",
+      "projectPath": "D:\\CDU\\HIT339\\git\\week1HelloWorldMVC\\MvcMovie.csproj",
       "packagesPath": "C:\\Users\\Anj\\.nuget\\packages\\",
-      "outputPath": "D:\\CDU\\HIT339\\01\\Mcmovie\\MvcMovie\\obj\\",
+      "outputPath": "D:\\CDU\\HIT339\\git\\week1HelloWorldMVC\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Anj\\AppData\\Roaming\\NuGet\\NuGet.Config",

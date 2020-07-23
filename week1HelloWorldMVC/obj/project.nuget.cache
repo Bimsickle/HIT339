@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kpkORn5pIfhVh9t8fFpnf+ljJFBzlWpxvEBN0ZZ1PXxvnyow7402ORZhFReorTVsbIs0dgHmPi1mCF8RHmQ5Qw==",
+  "dgSpecHash": "tg7+kwCdqxBoqDfFTvJiaGepHVJxpis2JnzzDgNfnHtgunBDiSbucAHTthOr0vjGqHClg3QYm9AwvhvUfg/7ng==",
   "success": true,
-  "projectFilePath": "D:\\CDU\\HIT339\\01\\Mcmovie\\MvcMovie\\MvcMovie.csproj",
+  "projectFilePath": "D:\\CDU\\HIT339\\git\\week1HelloWorldMVC\\MvcMovie.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
