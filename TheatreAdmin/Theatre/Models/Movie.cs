@@ -23,18 +23,7 @@ namespace Theatre.Models
             English,
             Japanese,
             Chinese
-        }
-        public int CategoryId { get; set; }
-        public Category Category { get; set; }
-
-    }
-    public class Category
-    {
-        [Key]
-        public int Id { get; set; }
-        public string Name { get; set; }
-        public string Code { get; set; }
-        public virtual ICollection<Movie> Movies { get; set; }
+        }  
 
     }
 }
